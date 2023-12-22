@@ -31,7 +31,7 @@ import {
 const host =
   process.env.NODE_ENV === 'production'
     ? 'https://cyber-store-five.vercel.app'
-    : 'http://87.236.22.250:5000'
+    : 'http://localhost:5000'
 
 //const host = 'http://localhost:5000'
 
